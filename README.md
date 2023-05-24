@@ -6,7 +6,7 @@
 
 <img src="/bot-logo.png" alt="midjourney wechat bot base on fakingai.com" width="300" height="300" align="bottom" />
 
-Official website: <https://fakingai.com>
+This Bot based on FakingAI API . Official website is: <https://fakingai.com>
 
 
 ## The Goal 
@@ -23,6 +23,7 @@ Official website: <https://fakingai.com>
 
 > 1.12.0+ is the latest version, only support WeChat v3.6.0.18, 1.11.14 is the last version base WeChat v3.3.0.115. Note to use the npm package that matches the WeChat version.
 
+
 ```sh
 git clone https://github.com/lifecoder1988/mj-wechat-bot.git
 cd mj-wechat-bot
@@ -32,6 +33,11 @@ npm start
 # Do not forget to install WeChat with requried version and login.
 #
 ```
+
+### Resource 
+
+- [Download Wechat 3.6.0.18](https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.6.0.18/WeChatSetup-3.6.0.18.exe)
+
 
 ## Author
 
