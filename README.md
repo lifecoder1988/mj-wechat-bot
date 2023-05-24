@@ -8,6 +8,11 @@
 
 Official website: <https://fakingai.com>
 
+
+## The Goal 
+
+<img src="/goal.jpg" alt="midjourney wechat bot base on fakingai.com" width="300" height="300" align="bottom" />
+
 ## GETTING STARTED
 
 - STEP 1: Install Wechat Client in your Windows computer.
