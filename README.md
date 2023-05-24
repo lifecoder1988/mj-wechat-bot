@@ -28,10 +28,33 @@ This Bot based on FakingAI API . Official website is: <https://fakingai.com>
 > only support WeChat v3.6.0.18 , You can download below.
 
 ```sh
+
+
 git clone https://github.com/lifecoder1988/mj-wechat-bot.git
 cd mj-wechat-bot
 npm install
+
+# config .env file 
+
+# ----------------- .env content ------------------ 
+
+BOT_NAME="@宝宝" # wechat bot  name (same as @宝宝)
+
+WEBHOOK_URL="https://a-key-named-by-you.loca.lt"
+
+MJ_API_TOKEN="xxxxxxxx" # generate from faking ai
+
+# --------------------- .env content done ----------
+
 npm start
+
+# install local tunel 
+npm install -g localtunnel
+
+# start lt with fixed subdomain and port 
+
+lt --port 3000 --subdomain a-key-named-by-you
+
 #
 # Do not forget to install WeChat with requried version and login.
 #
