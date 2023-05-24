@@ -8,21 +8,24 @@
 
 This Bot based on FakingAI API . Official website is: <https://fakingai.com>
 
+## The Goal
 
-## The Goal 
-
-<img src="/goal.jpg" alt="midjourney wechat bot base on fakingai.com" width="300" height="300" align="bottom" />
+<img src="/goal.jpg" alt="midjourney wechat bot base on fakingai.com" height="300" align="bottom" />
 
 ## GETTING STARTED
 
 - STEP 1: Install Wechat Client in your Windows computer.
 - STEP 2: Login the Wechat Client on the computer.
-- STEP 3: Getting Started with TypeScript/JavaScript (RECOMMENDED).
+- SETP 3: Get a token from FakingAI.com.
+  - get one token in fakingai.com when you login console
+    - <img  src="/token.jpg"  alt="midjourney wechat bot base on fakingai.com"   height="300"  align="bottom"  />
+  - subscribe free plan to make token working (it's free now)
+    - <img  src="/sub.jpg"  alt="midjourney wechat bot base on fakingai.com"    height="300"  align="bottom"  />
+- STEP 4: Getting Started with TypeScript/JavaScript (RECOMMENDED).
 
 ## QUICK START
 
-> 1.12.0+ is the latest version, only support WeChat v3.6.0.18, 1.11.14 is the last version base WeChat v3.3.0.115. Note to use the npm package that matches the WeChat version.
-
+> only support WeChat v3.6.0.18 , You can download below.
 
 ```sh
 git clone https://github.com/lifecoder1988/mj-wechat-bot.git
@@ -34,10 +37,9 @@ npm start
 #
 ```
 
-### Resource 
+### Resource
 
 - [Download Wechat 3.6.0.18](https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.6.0.18/WeChatSetup-3.6.0.18.exe)
-
 
 ## Author
 
