@@ -2,7 +2,7 @@
 
 [![Powered by Sidecar](https://img.shields.io/badge/Powered%20By-Sidecar-red.svg)](https://github.com/huan/sidecar)
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue.svg)](https://www.typescriptlang.org/)
-[![GitHub stars](https://img.shields.io/github/stars/lifecoder1988/mj-wechat-bot.svg?label=github%20stars)](https://github.com/lifecoder1988/mj-wechat-bot)
+[![GitHub stars](https://img.shields.io/github/stars/lifecoder1988/mj-wechat-bot?label=github%20stars)](https://github.com/lifecoder1988/mj-wechat-bot)
 
 <img src="/bot-logo.png" alt="midjourney wechat bot base on fakingai.com" width="300" height="300" align="bottom" />
 
